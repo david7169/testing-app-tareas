@@ -1,4 +1,4 @@
-# 📱 Testing de Aplicación Móvil de Tareas
+# 📱 Testing de Aplicación Móvil
 
 Este proyecto consiste en pruebas funcionales y de regresión realizadas sobre una aplicación móvil de gestión de tareas. Fue desarrollado como parte del bootcamp de TripleTen.
 
