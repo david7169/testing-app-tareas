@@ -26,9 +26,3 @@ Este proyecto consiste en pruebas funcionales y de regresión realizadas sobre u
 - Identificación de errores críticos en la navegación de la app
 - Mejora significativa de la experiencia de usuario
 - Reducción del tiempo de pruebas en un 25%
-
-## 📸 Evidencias (opcional)
-
-- Capturas de pantalla de errores documentados
-- Extractos de los casos de prueba (PDF o imagen)
-- Ejemplos de reportes JIRA
